@@ -43,35 +43,7 @@ The dashboard is powered by 16 DAX measures covering totals, rates, averages, an
 - Power BI Desktop
 - DAX
 - Excel / CSV (source data)
-
-## Getting Started
-
-1. Clone this repository:
-```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-```
-2. Download the dataset from Kaggle and place it in the `data/` folder.
-3. Open the `.pbix` file in Power BI Desktop.
-4. If prompted, update the data source path via **Transform data → Data source settings**.
-5. Click **Refresh** to load the data.
-
-## Repository Structure
-
-```
-├── data/           # Raw dataset (CSV)
-├── dashboard/      # Power BI (.pbix) file
-├── screenshots/    # Dashboard page previews
-└── README.md
-```
-
-## Key Insights
-
-- _Add 3-5 findings from your dashboard here (e.g. peak transaction hours, top states, fraud hotspots)._
-
-## Screenshots
-
-_Add screenshots of each dashboard page here._
-
+  
 ## Author
 
 **Siddhi Kanavaje**
